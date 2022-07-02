@@ -13,7 +13,7 @@ namespace Price_Quote_Application_Assignment
 
 
             Console.WriteLine("Please enter the package weight: ");
-            int packageWeigh = Convert.ToInt32(Console.ReadLine());
+            double packageWeigh = Convert.ToDouble(Console.ReadLine());
                 if (packageWeigh > 50)
                 {
                     Console.WriteLine("Package too heavy to be shipped via Package Express. ****** Have a good day ******");
@@ -22,23 +22,23 @@ namespace Price_Quote_Application_Assignment
                 }
             
             Console.WriteLine("Please enter the package width: ");
-            int packageWidth = Convert.ToInt32(Console.ReadLine());
+            double packageWidth = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Please enter the package height: ");
-            int packageHeight = Convert.ToInt32(Console.ReadLine());
+            double packageHeight = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Please enter the package length: ");
-            int packageLength = Convert.ToInt32(Console.ReadLine());
+            double packageLength = Convert.ToDouble(Console.ReadLine());
 
-            int totalAllDimension = packageWidth + packageHeight + packageLength;
+            double totalAllDimension = packageWidth + packageHeight + packageLength;
             if (totalAllDimension > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express. ****** Have a good day ******");
                 Console.ReadLine();
                 return;
             }
-            int priceQuote = (packageWidth * packageHeight * packageLength)/100;
-            Console.WriteLine("Your estimated total for shipping this package is: $" + priceQuote +".00");
+            double priceQuote = (packageWidth * packageHeight * packageLength * packageWeigh) /100;
+            Console.WriteLine("Your estimated total for shipping this package is: $" + priceQuote);
             Console.ReadLine();
 
         }
