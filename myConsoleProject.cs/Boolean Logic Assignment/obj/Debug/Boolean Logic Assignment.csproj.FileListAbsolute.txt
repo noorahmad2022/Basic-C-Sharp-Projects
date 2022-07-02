@@ -1,0 +1,8 @@
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe.config
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.pdb
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.AssemblyReference.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.pdb

@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Operation Assignment",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Income Comparison Assignment", "Income Comparison Assignment\Income Comparison Assignment.csproj", "{1CCF11DD-4C50-4A2F-88A0-3B397822905C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "Booleans\Booleans.csproj", "{4325F543-4144-495D-BA04-0AD7D7B2F1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean Logic Assignment", "Boolean Logic Assignment\Boolean Logic Assignment.csproj", "{AD218044-2559-4A86-B8F0-17DD57AD6D77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{1CCF11DD-4C50-4A2F-88A0-3B397822905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CCF11DD-4C50-4A2F-88A0-3B397822905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CCF11DD-4C50-4A2F-88A0-3B397822905C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4325F543-4144-495D-BA04-0AD7D7B2F1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4325F543-4144-495D-BA04-0AD7D7B2F1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4325F543-4144-495D-BA04-0AD7D7B2F1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4325F543-4144-495D-BA04-0AD7D7B2F1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD218044-2559-4A86-B8F0-17DD57AD6D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD218044-2559-4A86-B8F0-17DD57AD6D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD218044-2559-4A86-B8F0-17DD57AD6D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD218044-2559-4A86-B8F0-17DD57AD6D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
