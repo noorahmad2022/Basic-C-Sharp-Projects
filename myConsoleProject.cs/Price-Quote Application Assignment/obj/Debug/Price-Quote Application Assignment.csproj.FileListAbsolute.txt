@@ -1,0 +1,8 @@
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\bin\Debug\Price-Quote Application Assignment.exe.config
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\bin\Debug\Price-Quote Application Assignment.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\bin\Debug\Price-Quote Application Assignment.pdb
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.csproj.AssemblyReference.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.csproj.CoreCompileInputs.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.pdb

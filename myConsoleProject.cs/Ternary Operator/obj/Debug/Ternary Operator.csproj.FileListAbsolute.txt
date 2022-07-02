@@ -1,0 +1,8 @@
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\bin\Debug\Ternary Operator.exe.config
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\bin\Debug\Ternary Operator.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\bin\Debug\Ternary Operator.pdb
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\obj\Debug\Ternary Operator.csproj.AssemblyReference.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\obj\Debug\Ternary Operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\obj\Debug\Ternary Operator.csproj.CoreCompileInputs.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\obj\Debug\Ternary Operator.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Ternary Operator\obj\Debug\Ternary Operator.pdb
