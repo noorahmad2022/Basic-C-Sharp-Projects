@@ -1,0 +1,8 @@
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\bin\Debug\Loop_Assignment_While_Loop.exe.config
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\bin\Debug\Loop_Assignment_While_Loop.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\bin\Debug\Loop_Assignment_While_Loop.pdb
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\obj\Debug\Loop_Assignment_While_Loop.csproj.AssemblyReference.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\obj\Debug\Loop_Assignment_While_Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\obj\Debug\Loop_Assignment_While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\obj\Debug\Loop_Assignment_While_Loop.exe
+C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop_Assignment_While_Loop\obj\Debug\Loop_Assignment_While_Loop.pdb

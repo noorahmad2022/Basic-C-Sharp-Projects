@@ -1,8 +1,0 @@
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\bin\Debug\Loop.exe.config
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\bin\Debug\Loop.exe
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\bin\Debug\Loop.pdb
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\obj\Debug\Loop.csproj.SuggestedBindingRedirects.cache
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\obj\Debug\Loop.exe
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Loop\obj\Debug\Loop.pdb
