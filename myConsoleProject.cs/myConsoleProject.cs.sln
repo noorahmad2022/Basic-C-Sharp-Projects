@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Assignment_While_Loop"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Assignment_Do_While_Loop", "Loop_Assignment_Do_While_Loop\Loop_Assignment_Do_While_Loop.csproj", "{65EDDAC8-C85D-4800-83CE-8DBB416CADA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{C84EA744-F789-4D83-9724-3D16B5AA56ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Assignment", "String Assignment\String Assignment.csproj", "{D57D61D0-BF9A-45B1-8231-3E49E4113B17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{65EDDAC8-C85D-4800-83CE-8DBB416CADA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65EDDAC8-C85D-4800-83CE-8DBB416CADA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65EDDAC8-C85D-4800-83CE-8DBB416CADA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84EA744-F789-4D83-9724-3D16B5AA56ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84EA744-F789-4D83-9724-3D16B5AA56ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84EA744-F789-4D83-9724-3D16B5AA56ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84EA744-F789-4D83-9724-3D16B5AA56ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57D61D0-BF9A-45B1-8231-3E49E4113B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57D61D0-BF9A-45B1-8231-3E49E4113B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57D61D0-BF9A-45B1-8231-3E49E4113B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57D61D0-BF9A-45B1-8231-3E49E4113B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
