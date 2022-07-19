@@ -1,0 +1,7 @@
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\bin\Debug\Arrays Assignment.exe.config
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\bin\Debug\Arrays Assignment.exe
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\bin\Debug\Arrays Assignment.pdb
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.AssemblyReference.cache
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.CoreCompileInputs.cache
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\obj\Debug\Arrays Assignment.exe
+C:\Users\nnoor\Desktop\Basic_C#_Programs\ArrayAndList\Arrays Assignment\obj\Debug\Arrays Assignment.pdb
