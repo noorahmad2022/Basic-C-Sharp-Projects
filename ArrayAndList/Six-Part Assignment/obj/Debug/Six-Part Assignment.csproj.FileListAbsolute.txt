@@ -1,0 +1,8 @@
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\bin\Debug\Six-Part Assignment.exe.config
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\bin\Debug\Six-Part Assignment.exe
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\bin\Debug\Six-Part Assignment.pdb
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\obj\Debug\Six-Part Assignment.csproj.AssemblyReference.cache
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\obj\Debug\Six-Part Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\obj\Debug\Six-Part Assignment.csproj.CoreCompileInputs.cache
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\obj\Debug\Six-Part Assignment.exe
+C:\Users\NOOR\Desktop\Web Development Course\C#\Basic_C#_Programs\ArrayAndList\Six-Part Assignment\obj\Debug\Six-Part Assignment.pdb
