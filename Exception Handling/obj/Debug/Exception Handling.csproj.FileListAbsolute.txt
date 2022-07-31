@@ -1,0 +1,8 @@
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\bin\Debug\Exception Handling.exe.config
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\bin\Debug\Exception Handling.exe
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\bin\Debug\Exception Handling.pdb
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\obj\Debug\Exception Handling.csproj.SuggestedBindingRedirects.cache
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\obj\Debug\Exception Handling.exe
+D:\Training\Web Development Course\C#\Basic_C#_Programs\Exception Handling\obj\Debug\Exception Handling.pdb

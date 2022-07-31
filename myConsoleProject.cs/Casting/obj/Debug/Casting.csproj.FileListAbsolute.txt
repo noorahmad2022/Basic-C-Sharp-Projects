@@ -5,11 +5,3 @@ C:\Users\nnoor\Desktop\Basic_C#_Programs\myConsoleProject.cs\Casting\obj\Debug\C
 C:\Users\nnoor\Desktop\Basic_C#_Programs\myConsoleProject.cs\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
 C:\Users\nnoor\Desktop\Basic_C#_Programs\myConsoleProject.cs\Casting\obj\Debug\Casting.exe
 C:\Users\nnoor\Desktop\Basic_C#_Programs\myConsoleProject.cs\Casting\obj\Debug\Casting.pdb
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\bin\Debug\Casting.exe.config
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\bin\Debug\Casting.exe
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\bin\Debug\Casting.pdb
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\obj\Debug\Casting.csproj.SuggestedBindingRedirects.cache
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\obj\Debug\Casting.exe
-C:\Users\NOOR\Desktop\GitHub\Basic-C-Sharp-Projects\myConsoleProject.cs\Casting\obj\Debug\Casting.pdb
