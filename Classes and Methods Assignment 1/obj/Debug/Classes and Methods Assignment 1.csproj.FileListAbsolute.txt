@@ -1,0 +1,8 @@
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.exe.config
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.exe
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.pdb
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.AssemblyReference.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.exe
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.pdb

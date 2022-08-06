@@ -14,11 +14,11 @@ namespace Methods_Assignment
             Console.WriteLine("Enter the number to do the math opertion on it");
             int userInput = Convert.ToInt32(Console.ReadLine());
 
-            Methods_Assignment.Methods methode = new Methods();
-            methode.sumFuntion(userInput);
+            Methods m = new Methods();
 
-            Methods_Assignment.Methods method = new Methods();
-            method.multiplyFunction(userInput);
+            m.sumFuntion(userInput);
+            m.multiplyFunction(userInput);
+
 
             minusFunction(userInput);
 

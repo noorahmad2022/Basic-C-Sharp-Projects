@@ -27,5 +27,19 @@ namespace Classes_and_Objects
             }
         }
         public List<Card> Cards { get; set; }
+
+        public void Shuffle(int time = 1)
+        {
+            List<Card> tempList = new List<Card>();
+            Random random = new Random();
+
+            while (Cards.Count > 0)
+            {
+                int randomIndex = random.Next(0,Cards.Count);
+                tempList.Add(Cards[randomIndex]);
+                Cards.RemoveAt(randomIndex);
+            }
+            Cards = tempList;
+        }
     }
 }
