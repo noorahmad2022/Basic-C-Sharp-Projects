@@ -8,10 +8,9 @@ namespace Classes_and_Methods_Assignment_2
 {
     public class myClass
     {
-        public void mathOperations(int num1, int num2=5)
-        {
-            int result = num1+ num2;
-            Console.WriteLine(result);
-        }
+        public int inputNum1 { get; set; }
+        public int? inputNum2 { get; set; }
+
+
     }
 }

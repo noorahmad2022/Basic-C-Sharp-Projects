@@ -10,42 +10,28 @@ namespace Classes_and_Methods_Assignment_2
     {
         static void Main(string[] args)
         {
+            string inputNum2byUser;
+            int Result;
+            myClass myClass = new myClass();
+            myClass.inputNum1 = 20;
+            myClass.inputNum2 = 5;
+
+            //Result = Convert.ToInt32 (myClass.inputNum1 * myClass.inputNum2);
+            //Console.WriteLine(Result);
+
             Console.WriteLine("Enter the First Number: ");
-            int inputNum1 = Convert.ToInt32(Console.ReadLine());
-            
-            Console.WriteLine("Enter the Second Number: ");
+            myClass.inputNum1 = Convert.ToInt32(Console.ReadLine());
+           
+            Console.WriteLine("For the second number the default value is 5, DO NOT ENTER THE SECOND NUMBER");
+            inputNum2byUser = Console.ReadLine();
 
-
-            if (Console.ReadLine() != null)
+            if(inputNum2byUser == null)
             {
-                myClass myClass = new myClass();
-                myClass.mathOperations(inputNum1);
-            }
-            else
-            {
-                int inputNum2 = Convert.ToInt32(Console.ReadLine());
-                int result = inputNum1 + inputNum2;
-                Console.WriteLine(result);
+                myClass.inputNum2 = 5;
             }
 
-
-
-
-            //Console.WriteLine("Enter the Second Number, if you leave empty. The default value is 5 : ");
-            //int inputNum2 = Convert.ToInt32(Console.ReadLine());
-
-
-            //if (inputNum2 != null)
-            //{
-            //    Classes_and_Methods_Assignment_2.myClass myClass = new myClass();
-            //    myClass.mathOperations(inputNum1, inputNum2);
-            //}
-            //else
-            //{
-            //    myClass myClass1 = new myClass();
-            //    myClass1.mathOperations(inputNum1 + inputNum2);
-            //}
-
+            Result = Convert.ToInt32(myClass.inputNum1 * myClass.inputNum2);
+            Console.WriteLine(Result);
 
             Console.ReadLine();
         }
