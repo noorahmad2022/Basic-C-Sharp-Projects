@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A5C84CFD-0645-4632-8299-EBFB3AA8961D}</ProjectGuid>
+    <ProjectGuid>{E2499353-1D20-4B01-B4AD-25505892540A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Methods_Assignment</RootNamespace>
-    <AssemblyName>Methods Assignment</AssemblyName>
+    <RootNamespace>Class_Method_Assignment</RootNamespace>
+    <AssemblyName>Class Method Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="divisionClass.cs" />
-    <Compile Include="Methods.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

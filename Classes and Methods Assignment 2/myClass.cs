@@ -10,11 +10,7 @@ namespace Classes_and_Methods_Assignment_2
     {
       public int mathOp (int num1, int num2 = 5)
         {
-            
             return num1 + num2;
-      
         }
-
-
     }
 }
