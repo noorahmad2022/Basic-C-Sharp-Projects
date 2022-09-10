@@ -8,8 +8,12 @@ namespace Classes_and_Methods_Assignment_2
 {
     public class myClass
     {
-        public int inputNum1 { get; set; }
-        public int? inputNum2 { get; set; }
+      public int mathOp (int num1, int num2 = 5)
+        {
+            
+            return num1 + num2;
+      
+        }
 
 
     }

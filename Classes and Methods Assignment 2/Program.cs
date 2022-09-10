@@ -9,30 +9,26 @@ namespace Classes_and_Methods_Assignment_2
     internal class Program
     {
         static void Main(string[] args)
-        {
-            string inputNum2byUser;
-            int Result;
-            myClass myClass = new myClass();
-            myClass.inputNum1 = 20;
-            myClass.inputNum2 = 5;
+        { 
 
-            //Result = Convert.ToInt32 (myClass.inputNum1 * myClass.inputNum2);
-            //Console.WriteLine(Result);
+            Console.WriteLine("Enter First Number");
+            int userEntry1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter the First Number: ");
-            myClass.inputNum1 = Convert.ToInt32(Console.ReadLine());
-           
-            Console.WriteLine("For the second number the default value is 5, DO NOT ENTER THE SECOND NUMBER");
-            inputNum2byUser = Console.ReadLine();
+            Console.WriteLine("Enter Second Number");
+            string userEntry2 = Convert.ToString(Console.ReadLine());
 
-            if(inputNum2byUser == null)
+            if (userEntry2 == "")
             {
-                myClass.inputNum2 = 5;
+                myClass myClass = new myClass();
+                int result = myClass.mathOp(userEntry1);
+                Console.WriteLine(result);
             }
-
-            Result = Convert.ToInt32(myClass.inputNum1 * myClass.inputNum2);
-            Console.WriteLine(Result);
-
+            if (userEntry2 != "")
+            {
+                myClass myClass = new myClass();
+                int result = myClass.mathOp(userEntry1,Convert.ToInt32(userEntry2));
+                Console.WriteLine(result);
+            }
             Console.ReadLine();
         }
     }
