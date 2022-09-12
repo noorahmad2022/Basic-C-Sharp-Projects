@@ -1,0 +1,8 @@
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\bin\Debug\Abstract Classes Assignment.exe.config
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\bin\Debug\Abstract Classes Assignment.exe
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\bin\Debug\Abstract Classes Assignment.pdb
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.csproj.AssemblyReference.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.exe
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.pdb

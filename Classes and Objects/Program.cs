@@ -16,6 +16,7 @@ namespace Classes_and_Objects
             //game.Play();
             //Console.ReadLine();
 
+            Game game = new TwentyOneGame();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
