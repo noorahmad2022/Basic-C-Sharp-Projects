@@ -8,10 +8,14 @@ namespace Class_Method_Assignment
 {
     public class Class1
     {
-        public void methode(int userNumber)
+        public void methode(int userNumber, out int output)
         {
-            int result = userNumber / 2;
-            Console.WriteLine("Resutl= "+ result);
+            output = userNumber /2;
+        }
+
+        public void methode(string userString)
+        {
+
         }
     }
 }

@@ -13,9 +13,15 @@ namespace Class_Method_Assignment
             
 
             Console.WriteLine("Enter any Number to divid into 2");
+            int userData = Convert.ToInt32(Console.ReadLine());
+            int divNum = 2;
             Class1 myClass = new Class1();
-            myClass.methode(Convert.ToInt32(Console.ReadLine()));
+            myClass.methode(userData,out divNum);
+            string userString = "The result is =  ";
+            myClass.methode(userString);
 
+            Console.WriteLine(userString + divNum);
+            
             Console.ReadLine();
 
         }
