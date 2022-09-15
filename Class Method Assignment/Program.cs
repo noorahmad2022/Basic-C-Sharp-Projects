@@ -10,18 +10,21 @@ namespace Class_Method_Assignment
     {
         static void Main(string[] args)
         {
-            
+            int defaultValue = 2;
+            int dividResult;
+            double multipleResult;
+            int addResult;
+            Console.WriteLine("Enter any integer Number: ");
+            int userIntData = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter any Number to divid into 2");
-            int userData = Convert.ToInt32(Console.ReadLine());
-            int divNum = 2;
-            Class1 myClass = new Class1();
-            myClass.methode(userData,out divNum);
-            string userString = "The result is =  ";
-            myClass.methode(userString);
+            Math.Function(userIntData,defaultValue,out dividResult, out addResult);
+            Math.Function(userIntData, defaultValue, out multipleResult);
 
-            Console.WriteLine(userString + divNum);
-            
+            Console.WriteLine("Division of number is = " + dividResult);
+            Console.WriteLine("Addition of number is = " +addResult);
+            Console.WriteLine("Multiplication of number is = " + multipleResult);
+
+
             Console.ReadLine();
 
         }
