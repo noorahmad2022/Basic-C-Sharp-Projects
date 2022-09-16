@@ -8,6 +8,6 @@ namespace Classes_and_Objects
 {
     interface IWalkAway
     {
-        void WalkAway(Player player);
+        void WalkAway(Player player); //everything is public in interface and not require public
     }
 }

@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace Classes_and_Objects
 {
-    public class TwentyOneGame :Game  // to inherent a class
+    public class TwentyOneGame :Game , IWalkAway  // to inherent a class
     {
         public void Play()
         {
             Console.WriteLine("Welcome to TwentyOneGame");
+        }
+
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }
