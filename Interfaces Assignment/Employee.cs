@@ -12,5 +12,10 @@ namespace Interfaces_Assignment
         {
             Console.WriteLine(quit);
         }
+
+        interface IQuittable
+        {
+            void Quit(string quit);
+        }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interfaces_Assignment
 {
-   interface IQuittable
+  interface IQuittable
     {
         void Quit(string quit);        
     }

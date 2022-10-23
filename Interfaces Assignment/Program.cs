@@ -10,13 +10,14 @@ namespace Interfaces_Assignment
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            person person = new Employee();
 
-            employee.firstName = "Noor Ahmad";
-            employee.lastName = "Noor";
-            employee.SayName();
+            person.firstName = "Noor Ahmad";
+            person.lastName = "Noor";
+            person.SayName();
 
-            employee.Quit("Interface Methode is running!");
+            //person.Quit("Interface Methode is running!");
+
             Console.ReadLine();
         }
     }
