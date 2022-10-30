@@ -10,14 +10,12 @@ namespace Interfaces_Assignment
     {
         static void Main(string[] args)
         {
-            person person = new Employee();
+            //person person = new Employee();
 
-            person.firstName = "Noor Ahmad";
-            person.lastName = "Noor";
-            person.SayName();
+            IQuittable quittable = new Employee();
 
-            //person.Quit("Interface Methode is running!");
-
+            quittable.Quit("Interface Methode is running!");
+          
             Console.ReadLine();
         }
     }
