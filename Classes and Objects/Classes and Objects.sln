@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces Assignment", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading Assignment", "..\Operator Overloading Assignment\Operator Overloading Assignment.csproj", "{E7DE850D-5F68-4FF2-8A06-F71CEECC4C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics Assignment", "..\Generics Assignment\Generics Assignment.csproj", "{680BEDE5-88E9-49ED-8DFC-29E28630072A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{E7DE850D-5F68-4FF2-8A06-F71CEECC4C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7DE850D-5F68-4FF2-8A06-F71CEECC4C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7DE850D-5F68-4FF2-8A06-F71CEECC4C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680BEDE5-88E9-49ED-8DFC-29E28630072A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680BEDE5-88E9-49ED-8DFC-29E28630072A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680BEDE5-88E9-49ED-8DFC-29E28630072A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680BEDE5-88E9-49ED-8DFC-29E28630072A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
