@@ -10,22 +10,38 @@ namespace Generics_Assignment
     {
         static void Main(string[] args)
         {
-            Employee<int, string, string, double> emp1 = new Employee<int, string, string, double>();
-                emp1.ID = 1;
-                emp1.firstName = "Noor Ahmad";
-                emp1.lastName = "Noor";
-                emp1.things= 452;
+            
+            Employee<string> emp = new Employee<string>();
 
-            Employee<int, string, string, string> emp2 = new Employee<int, string, string, string>();
-               emp2.ID = 2;
-               emp2.firstName = "Malice";
-               emp2.lastName = "Safi";
-               emp2.things = "658";
+            emp.Things.Add("Noorahmad");
+            emp.Things.Add("John");
+            emp.Things.Add("Bob");
 
-            Console.WriteLine("Employee 1 Information \n \n" + "ID =  " + emp1.ID + "\n" + "First Name =  " + emp1.firstName + "\n" + "Last Name =  " + emp1.lastName + "\n"+ "PIN Code = "+ emp1.things+ "\n \n \n");
-            Console.WriteLine("Employee 2 Information \n \n" + "ID =  " + emp2.ID + "\n" + "First Name =  " + emp2.firstName + "\n" + "Last Name =  " + emp2.lastName + "\n"+ "PIN Code = "+ emp2.things+ "\n \n \n");
+            foreach (string employee in emp.Things)
+            {
+                Console.WriteLine(employee);
+            }
 
+            Employee<int> emp1 = new Employee<int>();
+
+            emp1.Things.Add(1);
+            emp1.Things.Add(2);
+            emp1.Things.Add(3);
+
+
+            foreach (string emplist in emp.Things)
+            {
+                Console.WriteLine(emplist);
+            }
+
+
+
+            Console.WriteLine();
+            Console.WriteLine("Press any key to shut down ....");
             Console.ReadLine();
+
+
+
         }
     }
 }

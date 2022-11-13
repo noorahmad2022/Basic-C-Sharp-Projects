@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace Generics_Assignment
 {
-    class Employee<T1, T2, T3, T4>
+    public class Employee<T>
     {
-        public T1 ID { get; set; }
-        public T2 firstName { get; set; }
-        public T3 lastName { get; set; }
-        public T4 things { get; set; }
+        public int ID { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public List<T> Things { get; set; }
+
+        
 
     }
 }
