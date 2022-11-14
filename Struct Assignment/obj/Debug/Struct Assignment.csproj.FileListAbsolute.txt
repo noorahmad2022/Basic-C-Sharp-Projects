@@ -1,0 +1,8 @@
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\bin\Debug\Struct Assignment.exe.config
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\bin\Debug\Struct Assignment.exe
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\bin\Debug\Struct Assignment.pdb
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\obj\Debug\Struct Assignment.csproj.AssemblyReference.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\obj\Debug\Struct Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\obj\Debug\Struct Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\obj\Debug\Struct Assignment.exe
+C:\Users\Noorahmad\Desktop\Web Development Course\C#\Basic_C#_Programs\Struct Assignment\obj\Debug\Struct Assignment.pdb

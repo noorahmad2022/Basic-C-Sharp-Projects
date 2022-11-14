@@ -29,7 +29,7 @@ namespace Enums
                 //}
             }
 
-            catch (Exception ex)
+            catch (Exception)
             {
                 Console.WriteLine("Please enter an actual day of the week.");
             }
