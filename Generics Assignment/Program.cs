@@ -12,6 +12,7 @@ namespace Generics_Assignment
         {
             
             Employee<string> emp = new Employee<string>();
+            emp.Things = new List<string>();
 
             emp.Things.Add("Noorahmad");
             emp.Things.Add("John");
@@ -23,18 +24,21 @@ namespace Generics_Assignment
             }
 
             Employee<int> emp1 = new Employee<int>();
+            emp1.Things = new List<int>();
 
             emp1.Things.Add(1);
             emp1.Things.Add(2);
             emp1.Things.Add(3);
 
-
-            foreach (string emplist in emp.Things)
+            foreach (int employee in emp1.Things)
             {
-                Console.WriteLine(emplist);
+                Console.WriteLine(employee);
             }
 
-
+            //foreach (string emplist in emp.Things)
+            //{
+            //    Console.WriteLine(emplist);
+            //}
 
             Console.WriteLine();
             Console.WriteLine("Press any key to shut down ....");
