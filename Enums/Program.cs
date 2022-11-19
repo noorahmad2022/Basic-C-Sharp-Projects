@@ -19,14 +19,8 @@ namespace Enums
 
                 string userInput = Console.ReadLine();
 
-                if (userInput == "Monday")
-                {
-                    Console.WriteLine("Today Date is : " + (int) daysOfTheWeek.Monday) ;
-                }
-                //else
-                //{
-                //    Console.WriteLine("This is not the current Day of the Week");
-                //}
+                daysOfTheWeek currentDay = (daysOfTheWeek)Enum.Parse(typeof(daysOfTheWeek),userInput);
+                Console.WriteLine(currentDay.ToString());
             }
 
             catch (Exception)
